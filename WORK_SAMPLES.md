@@ -1,6 +1,6 @@
 # Work samples and public scope
 
-This portfolio groups private work into transferable technical skills. The code in `examples/` is newly written for public demonstration. It is not a submission archive.
+This portfolio presents general algorithm skills through newly written public examples. It is not a submission archive.
 
 ## Algorithm design
 
@@ -14,16 +14,6 @@ This portfolio groups private work into transferable technical skills. The code 
 
 **Interactive reasoning.** Worked on query strategies and bitmask-style state representations. No private interaction protocols or judge materials are included.
 
-## Quality and review
-
-**Coding-task QA.** Reviewed whether prompts, solutions, explanations, and tests agree. Public tests emphasize edge cases and independent checks. No internal rubrics, model outputs, or evaluation thresholds are included.
-
-**Software trace review.** Examined multi-file code paths and used reproducible cases to explain defects. No private traces, repository snapshots, pull requests, or client code are included.
-
-**Visual workflow review.** Used ordered frames and contact sheets to inspect visual sequences. No source frames, screenshots, or client imagery are included.
-
-**Structured technical documentation.** Worked with complex written requirements and visual deliverables, checking that requested outputs and review criteria stayed traceable. No project guide, drawing, or source attachment is included.
-
 ## Evidence boundary
 
-Public code establishes technical capability. Private source folders can support a confidential review only where sharing is authorized. This repository contains no copied prompt, reference solution, test corpus, guideline, organization name, client name, record identifier, or private image.
+Public code establishes technical capability. Private source folders can support a confidential review only where sharing is authorized. This repository contains no copied prompt, reference solution, test corpus, guideline, organization name, client name, or record identifier.

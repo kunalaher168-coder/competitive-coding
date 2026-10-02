@@ -1,6 +1,6 @@
-# Competitive Programming and Technical QA Portfolio
+# Competitive Programming Portfolio
 
-Public, independently reconstructed examples of algorithm design, testing, and technical review. These examples show methods used in private work without reproducing task statements, evaluation materials, source assets, or client information.
+Public, independently reconstructed examples of algorithm design and correctness testing. These examples show general methods without reproducing private task statements, evaluation materials, or client information.
 
 ## Demonstrations
 
@@ -25,9 +25,7 @@ echo '{"vertices": 3, "edges": [[0, 1, 8], [1, 2, 6]], "source": 0, "target": 2}
 - Tree algorithms: traversal, aggregate queries, dynamic programming, and rerooting.
 - Array algorithms: sliding windows, prefix aggregates, two pointers, and boundary cases.
 - Simulation and ordering: event handling, deterministic rules, dependency graphs, and cycle detection.
-- Quality engineering: independent expected results, edge-case design, adversarial test coverage, and clear explanations.
-- Technical review: multi-file trace inspection, reproducible defect descriptions, and evidence-based recommendations.
-- Visual review workflow: frame selection and contact-sheet inspection using synthetic or authorized material only.
+- Correctness testing: edge cases and comparisons with independent small reference models.
 
 The [design notes](CASE_STUDIES.md) explain each example. The [work-sample notes](WORK_SAMPLES.md) explain the public scope. Original client materials stay private. No acceptance score, production deployment, or client endorsement is claimed here.
 
@@ -36,7 +34,7 @@ The [design notes](CASE_STUDIES.md) explain each example. The [work-sample notes
 ```text
 examples/       Independent Python implementations
 tests/          Standard-library tests, including small brute-force checks
-WORK_SAMPLES.md Anonymized work summary and publication boundaries
+WORK_SAMPLES.md Algorithm work summary and publication boundaries
 CASE_STUDIES.md Correctness arguments and test strategy
 .github/       Automated test workflow
 PROFILE_SNIPPET.md Short text for a GitHub profile or pinned repository
